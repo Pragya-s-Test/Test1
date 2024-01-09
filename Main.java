@@ -1,11 +1,9 @@
 public class Main {
     public static void main(String [] args){
         System.out.println("Hello");
-        System.out.println("Will you work?");
-//SUS
-        System.out.println("No");
-        System.out.println("No2");
-//Sus2
+        System.out.println("This is Branch 2");
+        System.out.println("Come on");
+        System.out.println("Come on");
 
     }
 }
